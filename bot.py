@@ -2076,4 +2076,4 @@ async def ping(ctx):
 # START BOT
 # ==================================================
 
-bot.run(os.getenv("DISCORD_TOEKN"))
+bot.run(os.getenv("DISCORD_TOKEN"))
